@@ -4,28 +4,28 @@ This repository contains the Python code and instructions necessary to replicate
 ## Steps to Replicate the Analysis
 
 ### Getting started
-Install and import the package\
+Install and import the package
 
 `pip install osreplicate`\
 `from osreplicate import Paper`
 
 ### Access the paper you want to replicate
-Provide the papers alias to start analyzing\
+Provide the papers alias to start analyzing
 
 `analysis = Paper('ejss/Soil Health Cluster Analysis')`
 
 ### Get the datasets
-Locally download any available datasets associated with this paper\
+Locally download any available datasets associated with this paper
 
 `analysis.get_data()`
 
 ### Replicate the paper
-Automatically run the full analysis on the available datasets and reproduce the figures from the paper\
+Automatically run the full analysis on the available datasets and reproduce the figures from the paper
 
 `analysis.run()`
 
 ### Mix and match      
-Access core analysis methods from to the paper\
+Access core analysis methods from to the paper
 
 `analysis. get_summary_statistics_by_habitat(data)`\
 `analysis.plot_soil_properties(data)`\
