@@ -1,5 +1,5 @@
 # Soil health cluster analysis based on national monitoring of soil indicators
-This repository contains the Python code and instructions necessary to replicate the analysis presented in the Soil Health Cluster Analysis paper using the Osyris Replicate python package. The paper analyzes a comprehensive national-scale dataset of topsoil properties in Wales, UK, demonstrating how different land uses impact soil health and function, and proposes a new way of classifying soils based on their functional properties rather than traditional soil genesis classifications. 
+This repository contains the Python code and instructions necessary to replicate the analysis presented in the "Soil health cluster analysis based on national monitoring of soil indicators" paper using the Osyris Replicate python package. The paper analyzes a comprehensive national-scale dataset of topsoil properties in Wales, UK, demonstrating how different land uses impact soil health and function, and proposes a new way of classifying soils based on their functional properties rather than traditional soil genesis classifications. 
 
 ## Steps to Replicate the Analysis
 
