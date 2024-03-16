@@ -30,4 +30,4 @@ Access core analysis methods from to the paper
 `analysis. get_summary_statistics_by_habitat(data)`\
 `analysis.plot_soil_properties(data)`\
 `classify_soils_using_cluster_analysis(data, properties)`\
-`correlate_clusters_with_habitats(cluster_data, habitat_data)`\
+`correlate_clusters_with_habitats(cluster_data, habitat_data)`
